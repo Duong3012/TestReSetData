@@ -6,6 +6,7 @@
     padding: 2px 4px 10px;
 }
 .thang {
-    color:red;
+    color:green;
     background-color: blue;
+    text-align: center;
 }
