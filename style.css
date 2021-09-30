@@ -3,11 +3,9 @@
     text-align: center;
     float: right;
     margin-right: 10px 5px;
-    padding: 2px 4px 10px 20px;
-    border-radius:1px solid black ;
+    padding: 2px 4px 10px;
 }
-
-p{
-    text-align: center;
-    line-height: 50px;
+.thang {
+    color:red;
+    background-color: blue;
 }
