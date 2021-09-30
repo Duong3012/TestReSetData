@@ -1,8 +1,8 @@
 
 .h1{
     text-align: center;
-    float: left;
-    margin-right: 10px;
+    float: right;
+    margin-right: 10px 5px;
     padding: 2px 4px 10px;
 }
 
